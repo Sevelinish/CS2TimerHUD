@@ -136,6 +136,7 @@ A reference config with every default value is included in [docs/TimerHUD.exampl
 **Requirements:** Metamod:Source and CounterStrikeSharp installed on the server.
 
 ## Screenshots
+
 <img width="839" height="165" alt="image" src="https://github.com/user-attachments/assets/ee20b255-b77f-441d-a96b-b86f3105ae78" />
 
 ---
